@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MoodLog/static/css/main.00b02037.css",
+    "main.js": "/MoodLog/static/js/main.55b7bcbc.js",
+    "index.html": "/MoodLog/index.html",
+    "main.00b02037.css.map": "/MoodLog/static/css/main.00b02037.css.map",
+    "main.55b7bcbc.js.map": "/MoodLog/static/js/main.55b7bcbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00b02037.css",
+    "static/js/main.55b7bcbc.js"
+  ]
+}
